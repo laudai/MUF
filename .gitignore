@@ -1,6 +1,6 @@
-./muf_temp
-./TestAudio_withCopyright
-./TestVideo_withCopyright
+muf_temp
+TestAudio_withCopyright
+TestVideo_withCopyright
 MyNote.txt
 SpeechRecongnitionTest.py
-*/__pycache__
+muf/__pycache__
