@@ -35,8 +35,8 @@ Step 2. Download and install the `VOICEMEETER`
 Setp 3. Set VB-CABLE Output to your default recoder.
 ![virtual audio device](doc/VAC_CableOutput.png)
 
-Setp 4. Set VoiceMetter A2 to VB-CABLE Input.
-![VoiceMetter](doc/VOICEMETTER.png)
+Setp 4. Set VoiceMeeter A2 to VB-CABLE Input.
+![VoiceMeeter](doc/VOICEMEETER.png)
 
 Setp 5. Run the project . And feel free to use it !!
 ```
@@ -80,8 +80,8 @@ pip install SpeechRecognition
 步驟三、 設定VB-CABLE Output作為聲音錄製的預設裝置
 ![virtual audio device](doc/VAC_CableOutput.png)
 
-步驟四、 將VB-CABLE Input 設定成VoiceMetter A2的輸出裝置
-![VoiceMetter](doc/VOICEMETTER.png)
+步驟四、 將VB-CABLE Input 設定成VoiceMeeter A2的輸出裝置
+![VoiceMeeter](doc/VOICEMEETER.png)
 
 步驟五、 切換到該專案路徑，並且享受此專案帶來的便利吧!
 ```
