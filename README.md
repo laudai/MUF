@@ -1,4 +1,4 @@
-# MUF - Make U Free in your life.
+# MUF - Make U Free in your life
 
 This project wannaa make you _**Free**_ in anytime.
 
@@ -11,7 +11,7 @@ If you can't deal with this problem , just use the `MUF` to make your life bette
 ## Requirements
 
 - Python package `SpeechRecognition`
-- Python package `PyAudio `
+- Python package `PyAudio`
 - Donationware `VB-CABLE`
 - Donationware `VOICEMEETER`
 
@@ -19,7 +19,7 @@ If you can't deal with this problem , just use the `MUF` to make your life bette
 
 Install [SpeechRecognition][speechrecognition] and [PyAudio][pyaudio] to get microphone voice and turn it to text.
 
-```
+```text
 pip install pyaudio
 pip install SpeechRecognition
 ```
@@ -41,7 +41,7 @@ Setp 4. Set VoiceMeeter A2 to VB-CABLE Input.
 
 Setp 5. Run the project . And feel free to use it !!
 
-```
+```bash
 cd MUF
 python -m muf
 ```
@@ -61,7 +61,7 @@ python -m muf
 ## 安裝軟體
 
 - Python 套件 `SpeechRecognition`
-- Python 套件 `PyAudio `
+- Python 套件 `PyAudio`
 - 捐贈軟體 `VB-CABLE`
 - 捐贈軟體 `VOICEMEETER`
 
@@ -69,7 +69,7 @@ python -m muf
 
 安裝 [SpeechRecognition][speechrecognition] 和 [PyAudio][pyaudio] 讓麥克風可以收到聲音，並轉換成文字
 
-```
+```bash
 pip install pyaudio
 pip install SpeechRecognition
 ```
@@ -90,7 +90,7 @@ pip install SpeechRecognition
 
 步驟五、 切換到該專案路徑，並且享受此專案帶來的便利吧!
 
-```
+```bash
 cd MUF
 python -m muf
 ```
