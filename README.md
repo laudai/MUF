@@ -1,5 +1,7 @@
 # MUF - Make U Free in your life
 
+## ※Stop develop, skype has the alike function.
+
 This project wannaa make you _**Free**_ in anytime.
 
 Use MUF to **auto recognize what your girlfriend said** in `voice message` / `line` / `wechat` / `skype` etc ...
@@ -99,6 +101,7 @@ python -m muf
 
 ## Roadmap
 
+- **2022/05/26 此專案暫停開發，基於不重複照輪子，Skype 目前功能已堪用**
 - 將語音文字訊息與 debugging 文字分開(透過 config 方式控管)
 - loggin 機制
 - 將語音文字存檔
